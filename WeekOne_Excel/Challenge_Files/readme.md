@@ -11,10 +11,10 @@ of a theater project is the best option for project development.
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-![Outcomes by Launch Date.png](https://github.com/klbrabec/kickstarter-analysis/blob/main/Outcomes%20by%20Launch%20Date.png)
+![Outcomes by Launch Date.png](https://github.com/klbrabec/ubiquitous-goggles/blob/main/WeekOne_Excel/Challenge_Files/Outcomes%20by%20Launch%20Date.png)
 
 ### Analysis of Outcomes Based on Goals
-![Outcomes vs_Goals.png](https://github.com/klbrabec/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png)
+![Outcomes vs_Goals.png](https://github.com/klbrabec/ubiquitous-goggles/blob/main/WeekOne_Excel/Challenge_Files/Outcomes_vs_Goals.png)
 
 ## Results
 
